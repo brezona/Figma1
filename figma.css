@@ -39,6 +39,9 @@ span, a {
     margin: 0 auto 8px;
     border: 1px solid #ececec;
 }
+a {
+    border-bottom: 33px;
+}
 /*pegue o 'a' e coloque uma margin X entre ele e o 'a' antes dele*/
 a + a {
     margin-left: 28px;
